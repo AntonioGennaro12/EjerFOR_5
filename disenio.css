@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: azure;
+}
+
+div {
+    border: 3px solid azure;
+    width: 240px;
+}
+
+div * {
+    font-family: 'Franklin Gothic Medium';
+    font-size: larger;
+}
+input {
+    width: 92px;
+    text-align: center;
+}
+
+button {
+    width: 250x;
+}
+
+select {
+    width: 240px;
+    text-align: center;
+}
+
+p {
+    margin: 1px;
+    width: 232px;
+    border-style: solid;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium';
+    font-size: larger;
+    color: azure;
+    text-align: center;
+}
